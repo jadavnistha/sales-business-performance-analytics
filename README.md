@@ -211,11 +211,4 @@ Sales-Analytics/
 - Add customer segmentation using machine learning.
 - Publish the dashboard to Power BI Service.
 
----
 
-## 👤 Author
-
-**Kapil Bagari**
-
-- GitHub: https://github.com/Kapil-Bagari
-- LinkedIn: *(https://www.linkedin.com/in/kapil-singh-bagari-6523ab362/)*
